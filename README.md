@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinanth K K</h1>
 <h3 align="center">I am a student of Electronics and Communication Engineering at Government College of Engineering , Erode </h3>
-- 🌱 I’m currently learning **frontend**
+- 🌱 I’m currently learning **AI and Automation**
 
 
 
